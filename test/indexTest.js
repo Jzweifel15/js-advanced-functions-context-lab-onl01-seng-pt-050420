@@ -133,7 +133,7 @@ describe("The payroll system", function () {
       })
     })
   })
-
+/*
   describe("Given an employee record with a date-matched timeInEvent and timeOutEvent", function () {
 
     it("hoursWorkedOnDate calculates the hours worked when given an employee record and a date", function () {
@@ -278,14 +278,14 @@ describe("The payroll system", function () {
         expect(loki.familyName).to.equal("Laufeysson-Odinsson")
       })
     })
-
-    describe("Full Payroll Test", function () {
+*/
+//    describe("Full Payroll Test", function () {
       /* Imported data courtesy of Ultron Consulting services
        *
        * Why go for smart when you can go for artificially intelligent? -- Ultron
        * Consulting
        */
-      const csvDataEmployees = [
+/*      const csvDataEmployees = [
         ["Thor", "Odinsson", "Electrical Engineer", 45],
         ["Loki", "Laufeysson-Odinsson", "HR Representative", 35],
         ["Natalia", "Romanov", "CEO", 150],
@@ -346,5 +346,5 @@ describe("The payroll system", function () {
     })
   })
 })
-
+*/
 
